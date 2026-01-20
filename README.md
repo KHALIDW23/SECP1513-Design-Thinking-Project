@@ -4,6 +4,7 @@
 
 [![Figma Prototype](https://img.shields.io/badge/🎨_Interactive_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://bit.ly/3ZksmsN)
 [![Video Presentation](https://img.shields.io/badge/🎬_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/3NzEtzC)
+[![Report](https://img.shields.io/badge/📄_View_Report-4285F4?style=for-the-badge&logo=logoColor=white)](TIS-%20Project.pdf)
 
 **Course:** SECP 1513 - Technology and Information Systems  
 **Theme:** Future Digital Campus  
@@ -41,6 +42,40 @@
   <img src="https://github.com/user-attachments/assets/e6302885-bba4-4aa8-ae3b-20bb6af16754" width="700" alt="Survey Analysis">
 </p>
 *Left: Common pain points identified | Right: Prioritized feature requests from users*
+
+---
+## **💭 Personal Reflection: Khalid**
+**My Design Thinking Journey**
+This Design Thinking project was more than just an academic assignment—it was a transformative experience that fundamentally changed how I approach problem-solving. As someone who had previously focused mainly on technical implementation, this project taught me that true innovation begins with understanding people, not just technology.
+
+**Key Personal Learnings:**
+
+1. The Power of Listening
+When I first approached users at UTM bus stops, I expected to hear complaints about waiting times. But through genuine conversations, I discovered deeper emotional pain points: the anxiety of missing classes, the stress of being late for important meetings, and the frustration visitors felt navigating our large campus. This taught me that behind every technical problem lies a human story.
+
+2. From Assumptions to Evidence
+Initially, I had assumptions about what features users would want. Our survey data revealed surprising insights—like the 100% demand for real-time tracking versus only 18.2% for accessibility features. This experience showed me the critical importance of data-driven design decisions over personal assumptions.
+
+3. Empathy as a Technical Skill
+I learned that empathy isn't just a soft skill—it's a technical requirement for good design. Creating the user personas for Ali (the stressed engineering student) and Mr. Lee (the confused visitor) forced me to think beyond functionality to emotional experience. This perspective will guide all my future technical projects.
+
+4. The Iterative Nature of Innovation
+Developing three prototype versions taught me that good design isn't about getting it right the first time, but about continuous improvement. Each round of user feedback revealed new insights that made our solution better. This iterative mindset is something I'll carry into all my future work.
+
+**Challenges & Growth:**
+Leading User Interviews:
+As the primary interviewer, I initially struggled with asking the right questions. I learned to move beyond closed questions to open-ended conversations that revealed deeper insights. This experience improved my communication skills significantly.
+
+**Balancing Technical and Human Factors:**
+There was tension between what was technically impressive versus what users actually needed. I learned to advocate for simplicity and usability over complex features, a valuable lesson in user-centered design.
+
+**Team Collaboration:**
+Working with diverse team members taught me the importance of clear communication and role clarity. My role in prototyping and ideation helped me develop leadership skills in guiding creative processes.
+
+**Future Application:**
+This project has reshaped my career aspirations. I now see myself pursuing roles in UX design and product management where I can bridge technical implementation with human needs. The skills I developed—user research, prototyping, iterative testing—are exactly what the industry values.
+
+Most importantly, this project taught me that technology's ultimate purpose is to serve people. Whether I'm coding, designing, or managing projects, I'll always start with the question: "Who are we helping, and what do they really need?"
 
 ---
 
